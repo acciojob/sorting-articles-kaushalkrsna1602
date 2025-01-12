@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+   body {
+            font-family: Arial, sans-serif;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            font-size: 18px;
+            margin: 5px 0;
+        }
